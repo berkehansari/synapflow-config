@@ -1,0 +1,72 @@
+name: Auto Rollover Expired Exams
+
+on:
+  schedule:
+    # Her Pazartesi sabah 06:00 UTC'de otomatik çalışır
+    - cron: '0 6 * * 1'
+  workflow_dispatch: # İstersen Actions sekmesinden tek tıkla manuel de çalıştırabilirsin
+
+permissions:
+  contents: write
+
+jobs:
+  rollover:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Check and Rollover Expired Exam Dates
+        run: |
+          node -e '
+          const fs = require("fs");
+          const file = "exams.json";
+          if (!fs.existsSync(file)) process.exit(0);
+          const raw = fs.readFileSync(file, "utf8");
+          const data = JSON.parse(raw);
+          const exams = Array.isArray(data) ? data : (data.exams || []);
+          const now = Date.now();
+          let updated = false;
+
+          function shiftIsoYear(iso, yearsToAdd) {
+            if (!iso) return iso;
+            const d = new Date(iso);
+            if (isNaN(d.getTime())) return iso;
+            d.setFullYear(d.getFullYear() + yearsToAdd);
+            return d.toISOString();
+          }
+
+          for (const ex of exams) {
+            if (!ex.examDateIso) continue;
+            let examTime = new Date(ex.examDateIso).getTime();
+            // Sınav tarihi üzerinden 24 saat geçtiyse bir sonraki yıla sar
+            while (examTime < now - 86400000) {
+              ex.examDateIso = shiftIsoYear(ex.examDateIso, 1);
+              if (ex.regStartIso) ex.regStartIso = shiftIsoYear(ex.regStartIso, 1);
+              if (ex.regEndIso) ex.regEndIso = shiftIsoYear(ex.regEndIso, 1);
+              if (ex.lateRegIso) ex.lateRegIso = shiftIsoYear(ex.lateRegIso, 1);
+              examTime = new Date(ex.examDateIso).getTime();
+              updated = true;
+            }
+          }
+
+          if (updated) {
+            const out = Array.isArray(data) ? exams : { ...data, updatedAt: new Date().toISOString(), exams };
+            fs.writeFileSync(file, JSON.stringify(out, null, 2) + "\n", "utf8");
+            console.log("Tarihi gecen sinavlar yeni yila devredildi.");
+          } else {
+            console.log("Tum sinav tarihleri guncel.");
+          }
+          '
+
+      - name: Commit and Push if changed
+        run: |
+          git config user.name "SynapFlow Auto-Bot"
+          git config user.email "actions@github.com"
+          git add exams.json
+          git diff --staged --quiet || (git commit -m "chore: auto-rollover expired exam dates" && git push)
