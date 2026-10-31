@@ -1,0 +1,1045 @@
+[
+  {
+    "id": "yks-tyt",
+    "code": "TYT",
+    "name": {
+      "tr": "YKS 1. Oturum (Temel Yeterlilik Testi)",
+      "en": "Higher Education Exam - Basic Proficiency (TYT)",
+      "de": "Hochschulaufnahmeprüfung - Basiskompetenz (TYT)",
+      "fr": "Examen d'Entrée Universitaire - Compétences de Base (TYT)",
+      "es": "Examen de Acceso a la Universidad - Competencia Básica (TYT)"
+    },
+    "examDateIso": "2027-06-19T10:15:00+03:00",
+    "regStartIso": "2027-02-04T10:00:00+03:00",
+    "regEndIso": "2027-03-01T23:59:59+03:00",
+    "lateRegIso": "2027-03-16T23:59:59+03:00",
+    "category": "osym",
+    "region": "TR",
+    "color": "#00f2fe",
+    "websiteUrl": "https://www.osym.gov.tr",
+    "recurrence": {
+      "month": 6,
+      "weekday": 6,
+      "nthWeek": 3,
+      "hour": 10,
+      "minute": 15,
+      "regOffsetDays": 135,
+      "regDurationDays": 25
+    }
+  },
+  {
+    "id": "yks-ayt",
+    "code": "AYT",
+    "name": {
+      "tr": "YKS 2. Oturum (Alan Yeterlilik Testleri)",
+      "en": "Higher Education Exam - Field Qualification (AYT)",
+      "de": "Hochschulaufnahmeprüfung - Fachkompetenz (AYT)",
+      "fr": "Examen d'Entrée Universitaire - Qualification de Domaine (AYT)",
+      "es": "Examen de Acceso a la Universidad - Cualificación de Área (AYT)"
+    },
+    "examDateIso": "2027-06-20T10:15:00+03:00",
+    "regStartIso": "2027-02-04T10:00:00+03:00",
+    "regEndIso": "2027-03-01T23:59:59+03:00",
+    "lateRegIso": "2027-03-16T23:59:59+03:00",
+    "category": "osym",
+    "region": "TR",
+    "color": "#7b2ff7",
+    "websiteUrl": "https://www.osym.gov.tr",
+    "recurrence": {
+      "month": 6,
+      "weekday": 0,
+      "nthWeek": 3,
+      "hour": 10,
+      "minute": 15,
+      "regOffsetDays": 136,
+      "regDurationDays": 25
+    }
+  },
+  {
+    "id": "yks-ydt",
+    "code": "YDT",
+    "name": {
+      "tr": "YKS 3. Oturum (Yabancı Dil Testi)",
+      "en": "Higher Education Exam - Foreign Language Test (YDT)",
+      "de": "Hochschulaufnahmeprüfung - Fremdsprachentest (YDT)",
+      "fr": "Examen d'Entrée Universitaire - Test de Langue Étrangère (YDT)",
+      "es": "Examen de Acceso a la Universidad - Prueba de Idioma Extranjero (YDT)"
+    },
+    "examDateIso": "2027-06-20T15:45:00+03:00",
+    "regStartIso": "2027-02-04T10:00:00+03:00",
+    "regEndIso": "2027-03-01T23:59:59+03:00",
+    "lateRegIso": "2027-03-16T23:59:59+03:00",
+    "category": "osym",
+    "region": "TR",
+    "color": "#4facfe",
+    "websiteUrl": "https://www.osym.gov.tr",
+    "recurrence": {
+      "month": 6,
+      "weekday": 0,
+      "nthWeek": 3,
+      "hour": 15,
+      "minute": 45,
+      "regOffsetDays": 136,
+      "regDurationDays": 25
+    }
+  },
+  {
+    "id": "dgs",
+    "code": "DGS",
+    "name": {
+      "tr": "DGS (Dikey Geçiş Sınavı)",
+      "en": "Vertical Transfer Exam (DGS)",
+      "de": "Vertikale Transferprüfung (DGS)",
+      "fr": "Examen de Transfert Vertical (DGS)",
+      "es": "Examen de Transferencia Vertical (DGS)"
+    },
+    "examDateIso": "2027-07-04T10:15:00+03:00",
+    "regStartIso": "2027-05-10T10:00:00+03:00",
+    "regEndIso": "2027-05-20T23:59:59+03:00",
+    "lateRegIso": "2027-05-28T23:59:59+03:00",
+    "category": "osym",
+    "region": "TR",
+    "color": "#ffb199",
+    "websiteUrl": "https://www.osym.gov.tr",
+    "recurrence": {
+      "month": 7,
+      "weekday": 0,
+      "nthWeek": 1,
+      "hour": 10,
+      "minute": 15,
+      "regOffsetDays": 55,
+      "regDurationDays": 10
+    }
+  },
+  {
+    "id": "ales-1",
+    "code": "ALES/1",
+    "name": {
+      "tr": "ALES/1 (Akademik Personel ve Lisansüstü Eğitimi - İlkbahar)",
+      "en": "Academic Personnel & Graduate Education Exam (Spring - ALES/1)",
+      "de": "Akademische Aufnahmeprüfung Frühjahr (ALES/1)",
+      "fr": "Examen du Personnel Académique - Printemps (ALES/1)",
+      "es": "Examen de Personal Académico - Primavera (ALES/1)"
+    },
+    "examDateIso": "2027-04-18T10:15:00+03:00",
+    "regStartIso": "2027-02-25T10:00:00+03:00",
+    "regEndIso": "2027-03-08T23:59:59+03:00",
+    "lateRegIso": "2027-03-18T23:59:59+03:00",
+    "category": "osym",
+    "region": "TR",
+    "color": "#00ff88",
+    "websiteUrl": "https://www.osym.gov.tr",
+    "recurrence": {
+      "month": 4,
+      "weekday": 0,
+      "nthWeek": 3,
+      "hour": 10,
+      "minute": 15,
+      "regOffsetDays": 52,
+      "regDurationDays": 11
+    }
+  },
+  {
+    "id": "ales-2",
+    "code": "ALES/2",
+    "name": {
+      "tr": "ALES/2 (Akademik Personel ve Lisansüstü Eğitimi - Yaz)",
+      "en": "Academic Personnel & Graduate Education Exam (Summer - ALES/2)",
+      "de": "Akademische Aufnahmeprüfung Sommer (ALES/2)",
+      "fr": "Examen du Personnel Académique - Été (ALES/2)",
+      "es": "Examen de Personal Académico - Verano (ALES/2)"
+    },
+    "examDateIso": "2027-07-18T10:15:00+03:00",
+    "regStartIso": "2027-06-01T10:00:00+03:00",
+    "regEndIso": "2027-06-12T23:59:59+03:00",
+    "lateRegIso": "2027-06-22T23:59:59+03:00",
+    "category": "osym",
+    "region": "TR",
+    "color": "#fbbf24",
+    "websiteUrl": "https://www.osym.gov.tr",
+    "recurrence": {
+      "month": 7,
+      "weekday": 0,
+      "nthWeek": 3,
+      "hour": 10,
+      "minute": 15,
+      "regOffsetDays": 47,
+      "regDurationDays": 11
+    }
+  },
+  {
+    "id": "kpss-lisans",
+    "code": "KPSS Lisans",
+    "name": {
+      "tr": "KPSS Lisans (Genel Yetenek - Genel Kültür)",
+      "en": "Public Personnel Selection Examination - Undergraduate (KPSS)",
+      "de": "Prüfung für den öffentlichen Dienst - Bachelor (KPSS)",
+      "fr": "Sélection de la Fonction Publique - Licence (KPSS)",
+      "es": "Selección de Personal Público - Licenciatura (KPSS)"
+    },
+    "examDateIso": "2027-07-25T10:15:00+03:00",
+    "regStartIso": "2027-05-03T10:00:00+03:00",
+    "regEndIso": "2027-05-15T23:59:59+03:00",
+    "lateRegIso": "2027-05-25T23:59:59+03:00",
+    "category": "osym",
+    "region": "TR",
+    "color": "#a855f7",
+    "websiteUrl": "https://www.osym.gov.tr",
+    "recurrence": {
+      "month": 7,
+      "weekday": 0,
+      "nthWeek": 4,
+      "hour": 10,
+      "minute": 15,
+      "regOffsetDays": 83,
+      "regDurationDays": 12
+    }
+  },
+  {
+    "id": "msu",
+    "code": "MSÜ",
+    "name": {
+      "tr": "MSÜ (Milli Savunma Üniversitesi Askeri Öğrenci Sınavı)",
+      "en": "National Defense University Military Student Selection Exam (MSÜ)",
+      "de": "Militäruniversität Auswahlprüfung (MSÜ)",
+      "fr": "Examen de l'Université de la Défense Nationale (MSÜ)",
+      "es": "Examen de la Universidad de Defensa Nacional (MSÜ)"
+    },
+    "examDateIso": "2027-03-28T10:15:00+03:00",
+    "regStartIso": "2027-01-05T10:00:00+03:00",
+    "regEndIso": "2027-01-27T23:59:59+03:00",
+    "lateRegIso": "2027-02-05T23:59:59+03:00",
+    "category": "osym",
+    "region": "TR",
+    "color": "#ef4444",
+    "websiteUrl": "https://www.osym.gov.tr",
+    "recurrence": {
+      "month": 3,
+      "weekday": 0,
+      "nthWeek": 4,
+      "hour": 10,
+      "minute": 15,
+      "regOffsetDays": 82,
+      "regDurationDays": 22
+    }
+  },
+  {
+    "id": "yds",
+    "code": "YDS",
+    "name": {
+      "tr": "YDS (Yabancı Dil Bilgisi Seviye Tespit Sınavı)",
+      "en": "Foreign Language Proficiency Exam (YDS)",
+      "de": "Fremdsprachenprüfung (YDS)",
+      "fr": "Examen de Compétence en Langues Étrangères (YDS)",
+      "es": "Examen de Competencia en Idiomas Extranjeros (YDS)"
+    },
+    "examDateIso": "2027-04-11T10:15:00+03:00",
+    "regStartIso": "2027-02-15T10:00:00+03:00",
+    "regEndIso": "2027-02-26T23:59:59+03:00",
+    "lateRegIso": "2027-03-08T23:59:59+03:00",
+    "category": "osym",
+    "region": "TR",
+    "color": "#06b6d4",
+    "websiteUrl": "https://www.osym.gov.tr",
+    "recurrence": {
+      "month": 4,
+      "weekday": 0,
+      "nthWeek": 2,
+      "hour": 10,
+      "minute": 15,
+      "regOffsetDays": 55,
+      "regDurationDays": 11
+    }
+  },
+  {
+    "id": "ales-3",
+    "code": "ALES/3",
+    "name": {
+      "tr": "ALES/3 (Akademik Personel ve Lisansüstü Eğitimi - Sonbahar)",
+      "en": "Academic Personnel & Graduate Education Exam (Autumn - ALES/3)",
+      "de": "Akademische Aufnahmeprüfung Herbst (ALES/3)",
+      "fr": "Examen du Personnel Académique - Automne (ALES/3)",
+      "es": "Examen de Personal Académico - Otoño (ALES/3)"
+    },
+    "examDateIso": "2027-11-21T10:15:00+03:00",
+    "regStartIso": "2027-10-01T10:00:00+03:00",
+    "regEndIso": "2027-10-12T23:59:59+03:00",
+    "lateRegIso": "2027-10-22T23:59:59+03:00",
+    "category": "osym",
+    "region": "TR",
+    "color": "#ff0844",
+    "websiteUrl": "https://www.osym.gov.tr",
+    "recurrence": {
+      "month": 11,
+      "weekday": 0,
+      "nthWeek": 3,
+      "hour": 10,
+      "minute": 15,
+      "regOffsetDays": 51,
+      "regDurationDays": 11
+    }
+  },
+  {
+    "id": "kpss-onlisans",
+    "code": "KPSS Ön Lisans",
+    "name": {
+      "tr": "KPSS Ön Lisans",
+      "en": "Public Personnel Selection Examination - Associate (KPSS)",
+      "de": "Prüfung für den öffentlichen Dienst - Kurzstudium (KPSS)",
+      "fr": "Sélection de la Fonction Publique - Diplôme Universitaire Court (KPSS)",
+      "es": "Selección de Personal Público - Grado Asociado (KPSS)"
+    },
+    "examDateIso": "2027-09-05T10:15:00+03:00",
+    "regStartIso": "2027-06-15T10:00:00+03:00",
+    "regEndIso": "2027-07-01T23:59:59+03:00",
+    "lateRegIso": "2027-07-10T23:59:59+03:00",
+    "category": "osym",
+    "region": "TR",
+    "color": "#00d2ff",
+    "websiteUrl": "https://www.osym.gov.tr",
+    "recurrence": {
+      "month": 9,
+      "weekday": 0,
+      "nthWeek": 1,
+      "hour": 10,
+      "minute": 15,
+      "regOffsetDays": 82,
+      "regDurationDays": 16
+    }
+  },
+  {
+    "id": "kpss-ortaogretim",
+    "code": "KPSS Ortaöğretim",
+    "name": {
+      "tr": "KPSS Ortaöğretim (Lise)",
+      "en": "Public Personnel Selection Examination - Secondary (KPSS)",
+      "de": "Prüfung für den öffentlichen Dienst - Sekundarstufe (KPSS)",
+      "fr": "Sélection de la Fonction Publique - Secondaire (KPSS)",
+      "es": "Selección de Personal Público - Secundaria (KPSS)"
+    },
+    "examDateIso": "2027-09-19T10:15:00+03:00",
+    "regStartIso": "2027-07-18T10:00:00+03:00",
+    "regEndIso": "2027-07-30T23:59:59+03:00",
+    "lateRegIso": "2027-08-08T23:59:59+03:00",
+    "category": "osym",
+    "region": "TR",
+    "color": "#f59e0b",
+    "websiteUrl": "https://www.osym.gov.tr",
+    "recurrence": {
+      "month": 9,
+      "weekday": 0,
+      "nthWeek": 3,
+      "hour": 10,
+      "minute": 15,
+      "regOffsetDays": 63,
+      "regDurationDays": 12
+    }
+  },
+  {
+    "id": "e-yds",
+    "code": "e-YDS",
+    "name": {
+      "tr": "e-YDS (Elektronik Yabancı Dil Sınavı)",
+      "en": "Electronic Foreign Language Exam (e-YDS)",
+      "de": "Elektronische Fremdsprachenprüfung (e-YDS)",
+      "fr": "Examen Électronique de Langues Étrangères (e-YDS)",
+      "es": "Examen Electrónico de Idiomas Extranjeros (e-YDS)"
+    },
+    "examDateIso": "2027-12-11T13:45:00+03:00",
+    "regStartIso": "2027-11-01T10:00:00+03:00",
+    "regEndIso": "2027-11-20T23:59:59+03:00",
+    "lateRegIso": "2027-11-25T23:59:59+03:00",
+    "category": "osym",
+    "region": "TR",
+    "color": "#3b82f6",
+    "websiteUrl": "https://www.osym.gov.tr",
+    "recurrence": {
+      "month": 12,
+      "weekday": 6,
+      "nthWeek": 2,
+      "hour": 13,
+      "minute": 45,
+      "regOffsetDays": 40,
+      "regDurationDays": 19
+    }
+  },
+  {
+    "id": "yokdil",
+    "code": "YÖKDİL",
+    "name": {
+      "tr": "YÖKDİL (Yükseköğretim Kurumları Yabancı Dil Sınavı)",
+      "en": "Higher Education Foreign Language Exam (YÖKDİL)",
+      "de": "Hochschul-Fremdsprachenprüfung (YÖKDİL)",
+      "fr": "Examen de Langue de l'Enseignement Supérieur (YÖKDİL)",
+      "es": "Examen de Idioma Extranjero de Educación Superior (YÖKDİL)"
+    },
+    "examDateIso": "2027-03-07T10:15:00+03:00",
+    "regStartIso": "2027-01-12T10:00:00+03:00",
+    "regEndIso": "2027-01-22T23:59:59+03:00",
+    "lateRegIso": "2027-02-01T23:59:59+03:00",
+    "category": "osym",
+    "region": "TR",
+    "color": "#8b5cf6",
+    "websiteUrl": "https://www.osym.gov.tr",
+    "recurrence": {
+      "month": 3,
+      "weekday": 0,
+      "nthWeek": 1,
+      "hour": 10,
+      "minute": 15,
+      "regOffsetDays": 54,
+      "regDurationDays": 10
+    }
+  },
+  {
+    "id": "sat",
+    "code": "SAT",
+    "name": {
+      "tr": "SAT (Scholastic Assessment Test)",
+      "en": "Digital SAT (College Board)",
+      "de": "Digital SAT (College Board)",
+      "fr": "SAT Numérique (College Board)",
+      "es": "Digital SAT (College Board)"
+    },
+    "examDateIso": "2027-05-08T08:00:00Z",
+    "regStartIso": "2027-01-15T00:00:00Z",
+    "regEndIso": "2027-04-23T23:59:59Z",
+    "lateRegIso": "2027-04-28T23:59:59Z",
+    "category": "academic",
+    "region": "GLOBAL",
+    "color": "#00f2fe",
+    "websiteUrl": "https://satsuite.collegeboard.org/sat",
+    "recurrence": {
+      "month": 5,
+      "weekday": 6,
+      "nthWeek": 1,
+      "hour": 8,
+      "minute": 0,
+      "regOffsetDays": 113,
+      "regDurationDays": 98
+    }
+  },
+  {
+    "id": "act",
+    "code": "ACT",
+    "name": {
+      "tr": "ACT (American College Testing)",
+      "en": "ACT College Readiness Exam",
+      "de": "ACT Hochschulzulassungstest",
+      "fr": "Examen d'Admission Universitaire ACT",
+      "es": "Examen de Preparación Universitaria ACT"
+    },
+    "examDateIso": "2027-06-12T08:00:00Z",
+    "regStartIso": "2027-03-01T00:00:00Z",
+    "regEndIso": "2027-05-07T23:59:59Z",
+    "lateRegIso": "2027-05-21T23:59:59Z",
+    "category": "academic",
+    "region": "GLOBAL",
+    "color": "#38bdf8",
+    "websiteUrl": "https://www.act.org",
+    "recurrence": {
+      "month": 6,
+      "weekday": 6,
+      "nthWeek": 2,
+      "hour": 8,
+      "minute": 0,
+      "regOffsetDays": 103,
+      "regDurationDays": 67
+    }
+  },
+  {
+    "id": "gre-general",
+    "code": "GRE",
+    "name": {
+      "tr": "GRE General Test (ETS)",
+      "en": "GRE General Test (Graduate Admissions)",
+      "de": "GRE General Test (Graduiertenprüfung)",
+      "fr": "Test Général GRE (Admissions Supérieures)",
+      "es": "Examen General GRE (Posgrado)"
+    },
+    "examDateIso": "2027-04-24T09:00:00Z",
+    "regStartIso": "2027-01-10T00:00:00Z",
+    "regEndIso": "2027-04-18T23:59:59Z",
+    "category": "academic",
+    "region": "GLOBAL",
+    "color": "#818cf8",
+    "websiteUrl": "https://www.ets.org/gre",
+    "recurrence": {
+      "month": 4,
+      "weekday": 6,
+      "nthWeek": 4,
+      "hour": 9,
+      "minute": 0,
+      "regOffsetDays": 104,
+      "regDurationDays": 98
+    }
+  },
+  {
+    "id": "gmat-focus",
+    "code": "GMAT Focus",
+    "name": {
+      "tr": "GMAT Focus Edition (MBA & İşletme)",
+      "en": "GMAT Focus Edition (Business School Admission)",
+      "de": "GMAT Focus Edition (MBA Zulassung)",
+      "fr": "GMAT Focus Edition (Admission MBA)",
+      "es": "Edición Focus de GMAT (Escuela de Negocios)"
+    },
+    "examDateIso": "2027-05-22T09:30:00Z",
+    "regStartIso": "2027-02-01T00:00:00Z",
+    "regEndIso": "2027-05-15T23:59:59Z",
+    "category": "academic",
+    "region": "GLOBAL",
+    "color": "#f59e0b",
+    "websiteUrl": "https://www.mba.com/exams/gmat-focus-edition",
+    "recurrence": {
+      "month": 5,
+      "weekday": 6,
+      "nthWeek": 4,
+      "hour": 9,
+      "minute": 30,
+      "regOffsetDays": 110,
+      "regDurationDays": 103
+    }
+  },
+  {
+    "id": "mcat",
+    "code": "MCAT",
+    "name": {
+      "tr": "MCAT (Tıp Fakültesi Giriş Sınavı)",
+      "en": "MCAT (Medical College Admission Test)",
+      "de": "MCAT (Medizinischer Aufnahmetest)",
+      "fr": "MCAT (Examen d'Entrée en Médecine)",
+      "es": "MCAT (Examen de Admisión a Medicina)"
+    },
+    "examDateIso": "2027-06-18T08:00:00Z",
+    "regStartIso": "2027-02-15T00:00:00Z",
+    "regEndIso": "2027-06-05T23:59:59Z",
+    "category": "academic",
+    "region": "GLOBAL",
+    "color": "#ec4899",
+    "websiteUrl": "https://students-residents.aamc.org/mcat",
+    "recurrence": {
+      "month": 6,
+      "weekday": 5,
+      "nthWeek": 3,
+      "hour": 8,
+      "minute": 0,
+      "regOffsetDays": 123,
+      "regDurationDays": 110
+    }
+  },
+  {
+    "id": "lsat",
+    "code": "LSAT",
+    "name": {
+      "tr": "LSAT (Hukuk Fakültesi Giriş Sınavı)",
+      "en": "LSAT (Law School Admission Test)",
+      "de": "LSAT (Aufnahmetest für Jura)",
+      "fr": "LSAT (Examen d'Admission en Droit)",
+      "es": "LSAT (Examen de Admisión a Derecho)"
+    },
+    "examDateIso": "2027-06-05T09:00:00Z",
+    "regStartIso": "2027-02-01T00:00:00Z",
+    "regEndIso": "2027-04-25T23:59:59Z",
+    "category": "academic",
+    "region": "GLOBAL",
+    "color": "#a855f7",
+    "websiteUrl": "https://www.lsac.org/lsat",
+    "recurrence": {
+      "month": 6,
+      "weekday": 6,
+      "nthWeek": 1,
+      "hour": 9,
+      "minute": 0,
+      "regOffsetDays": 124,
+      "regDurationDays": 83
+    }
+  },
+  {
+    "id": "ielts-academic",
+    "code": "IELTS",
+    "name": {
+      "tr": "IELTS Academic (İngilizce Dil Yeterlilik)",
+      "en": "IELTS Academic English Test",
+      "de": "IELTS Academic Englischprüfung",
+      "fr": "IELTS Académique (Test de Langue Anglaise)",
+      "es": "IELTS Académico (Prueba Oficial de Inglés)"
+    },
+    "examDateIso": "2027-04-10T09:00:00Z",
+    "regStartIso": "2027-01-01T00:00:00Z",
+    "regEndIso": "2027-04-03T23:59:59Z",
+    "category": "academic",
+    "region": "GLOBAL",
+    "color": "#ef4444",
+    "websiteUrl": "https://www.ielts.org",
+    "recurrence": {
+      "month": 4,
+      "weekday": 6,
+      "nthWeek": 2,
+      "hour": 9,
+      "minute": 0,
+      "regOffsetDays": 99,
+      "regDurationDays": 92
+    }
+  },
+  {
+    "id": "ap-exams",
+    "code": "AP Exams",
+    "name": {
+      "tr": "AP Sınavları (Advanced Placement)",
+      "en": "AP Exams (Advanced Placement - College Board)",
+      "de": "AP Prüfungen (Advanced Placement)",
+      "fr": "Examens AP (Advanced Placement)",
+      "es": "Exámenes AP (Advanced Placement)"
+    },
+    "examDateIso": "2027-05-03T08:00:00Z",
+    "regStartIso": "2026-10-01T00:00:00Z",
+    "regEndIso": "2027-03-01T23:59:59Z",
+    "lateRegIso": "2027-03-15T23:59:59Z",
+    "category": "academic",
+    "region": "GLOBAL",
+    "color": "#10b981",
+    "websiteUrl": "https://apstudents.collegeboard.org",
+    "recurrence": {
+      "month": 5,
+      "weekday": 1,
+      "nthWeek": 1,
+      "hour": 8,
+      "minute": 0,
+      "regOffsetDays": 214,
+      "regDurationDays": 151
+    }
+  },
+  {
+    "id": "a-levels-gcse",
+    "code": "A-Levels",
+    "name": {
+      "tr": "A-Levels & GCSE (Cambridge / Edexcel)",
+      "en": "Cambridge / Edexcel A-Levels & GCSE Finals",
+      "de": "A-Levels & GCSE Abschlussprüfungen",
+      "fr": "Examens Finaux A-Levels & GCSE",
+      "es": "Exámenes Finales de A-Levels y GCSE"
+    },
+    "examDateIso": "2027-05-17T09:00:00Z",
+    "regStartIso": "2027-01-10T00:00:00Z",
+    "regEndIso": "2027-02-21T23:59:59Z",
+    "category": "academic",
+    "region": "GLOBAL",
+    "color": "#6366f1",
+    "websiteUrl": "https://www.cambridgeinternational.org",
+    "recurrence": {
+      "month": 5,
+      "weekday": 1,
+      "nthWeek": 3,
+      "hour": 9,
+      "minute": 0,
+      "regOffsetDays": 127,
+      "regDurationDays": 42
+    }
+  },
+  {
+    "id": "abitur",
+    "code": "Abitur",
+    "name": {
+      "tr": "Abitur (Almanya Lise Bitirme & Üniversite Giriş)",
+      "en": "Abitur (German Higher Education Entrance Examination)",
+      "de": "Abitur (Allgemeine Hochschulreife Prüfungen)",
+      "fr": "Abitur (Baccalauréat Allemand - Hochschulreife)",
+      "es": "Abitur (Examen de Acceso Universitario Alemán)"
+    },
+    "examDateIso": "2027-04-27T09:00:00+02:00",
+    "regStartIso": "2026-12-01T00:00:00+01:00",
+    "regEndIso": "2027-02-15T23:59:59+01:00",
+    "category": "academic",
+    "region": "DE",
+    "color": "#fbbf24",
+    "websiteUrl": "https://www.kmk.org",
+    "recurrence": {
+      "month": 4,
+      "weekday": 2,
+      "nthWeek": 4,
+      "hour": 9,
+      "minute": 0,
+      "regOffsetDays": 147,
+      "regDurationDays": 76
+    }
+  },
+  {
+    "id": "tms-med",
+    "code": "TMS",
+    "name": {
+      "tr": "TMS (Almanya Tıp Eğitimi Seçme Testi)",
+      "en": "TMS (Test for Medical Study Programs in Germany)",
+      "de": "TMS (Test für Medizinische Studiengänge)",
+      "fr": "TMS (Test pour les Études Médicales en Allemagne)",
+      "es": "TMS (Prueba para Estudios Médicos en Alemania)"
+    },
+    "examDateIso": "2027-05-08T09:30:00+02:00",
+    "regStartIso": "2026-12-01T00:00:00+01:00",
+    "regEndIso": "2027-01-15T23:59:59+01:00",
+    "category": "academic",
+    "region": "DE",
+    "color": "#00f2fe",
+    "websiteUrl": "https://www.tms-info.org",
+    "recurrence": {
+      "month": 5,
+      "weekday": 6,
+      "nthWeek": 2,
+      "hour": 9,
+      "minute": 30,
+      "regOffsetDays": 158,
+      "regDurationDays": 45
+    }
+  },
+  {
+    "id": "testdaf",
+    "code": "TestDaF",
+    "name": {
+      "tr": "TestDaF (Almanca Yabancı Dil Yeterlilik)",
+      "en": "TestDaF (German as a Foreign Language Test)",
+      "de": "TestDaF (Test Deutsch als Fremdsprache)",
+      "fr": "TestDaF (Test d'Allemand Langue Étrangère)",
+      "es": "TestDaF (Test de Alemán como Lengua Extranjera)"
+    },
+    "examDateIso": "2027-06-10T09:00:00+02:00",
+    "regStartIso": "2027-04-01T00:00:00+02:00",
+    "regEndIso": "2027-05-12T23:59:59+02:00",
+    "category": "academic",
+    "region": "DE",
+    "color": "#ff0844",
+    "websiteUrl": "https://www.testdaf.de",
+    "recurrence": {
+      "month": 6,
+      "weekday": 4,
+      "nthWeek": 2,
+      "hour": 9,
+      "minute": 0,
+      "regOffsetDays": 70,
+      "regDurationDays": 41
+    }
+  },
+  {
+    "id": "erstes-staatsexamen",
+    "code": "Staatsexamen",
+    "name": {
+      "tr": "1. Devlet Sınavı (Hukuk & Tıp Staatsexamen)",
+      "en": "First State Examination (Law & Medicine Staatsexamen)",
+      "de": "Erstes Staatsexamen (Rechtswissenschaft & Medizin)",
+      "fr": "Premier Examen d'État (Droit et Médecine Staatsexamen)",
+      "es": "Primer Examen de Estado (Derecho y Medicina Staatsexamen)"
+    },
+    "examDateIso": "2027-09-06T08:30:00+02:00",
+    "regStartIso": "2027-05-01T00:00:00+02:00",
+    "regEndIso": "2027-06-30T23:59:59+02:00",
+    "category": "academic",
+    "region": "DE",
+    "color": "#8b5cf6",
+    "websiteUrl": "https://www.justiz.de",
+    "recurrence": {
+      "month": 9,
+      "weekday": 1,
+      "nthWeek": 1,
+      "hour": 8,
+      "minute": 30,
+      "regOffsetDays": 128,
+      "regDurationDays": 60
+    }
+  },
+  {
+    "id": "dsh-pruefung",
+    "code": "DSH",
+    "name": {
+      "tr": "DSH (Alman Üniversiteleri Almanca Dil Sınavı)",
+      "en": "DSH (German Language University Entrance Exam)",
+      "de": "DSH-Prüfung (Sprachprüfung für den Hochschulzugang)",
+      "fr": "Examen de Langue DSH pour l'Accès Universitaire",
+      "es": "Examen de Idioma DSH para Acceso Universitario"
+    },
+    "examDateIso": "2027-09-18T09:00:00+02:00",
+    "regStartIso": "2027-06-15T00:00:00+02:00",
+    "regEndIso": "2027-08-15T23:59:59+02:00",
+    "category": "academic",
+    "region": "DE",
+    "color": "#10b981",
+    "websiteUrl": "https://www.dsh-germany.com",
+    "recurrence": {
+      "month": 9,
+      "weekday": 6,
+      "nthWeek": 3,
+      "hour": 9,
+      "minute": 0,
+      "regOffsetDays": 95,
+      "regDurationDays": 61
+    }
+  },
+  {
+    "id": "baccalaureat-fr",
+    "code": "Baccalauréat",
+    "name": {
+      "tr": "Fransız Bakaloryası (Bac Général & Technologique)",
+      "en": "French Baccalauréat (Bac Exams)",
+      "de": "Französisches Baccalauréat (Bac Prüfungen)",
+      "fr": "Baccalauréat Général & Technologique (Épreuves Terminales)",
+      "es": "Bachillerato Francés (Exámenes de Baccalauréat)"
+    },
+    "examDateIso": "2027-06-17T08:00:00+02:00",
+    "regStartIso": "2026-11-15T00:00:00+01:00",
+    "regEndIso": "2027-01-20T23:59:59+01:00",
+    "category": "academic",
+    "region": "FR",
+    "color": "#002654",
+    "websiteUrl": "https://www.education.gouv.fr/le-baccalaureat-general-et-technologique-10815",
+    "recurrence": {
+      "month": 6,
+      "weekday": 4,
+      "nthWeek": 3,
+      "hour": 8,
+      "minute": 0,
+      "regOffsetDays": 214,
+      "regDurationDays": 66
+    }
+  },
+  {
+    "id": "concours-cpge",
+    "code": "CPGE",
+    "name": {
+      "tr": "Concours CPGE (Grandes Écoles Giriş Yarışması)",
+      "en": "Grandes Écoles Competitive Entrance Exams (CPGE)",
+      "de": "Grandes Écoles Concours Aufnahmeprüfung (CPGE)",
+      "fr": "Concours CPGE aux Grandes Écoles (Polytechnique, Mines, Centrale)",
+      "es": "Concurso CPGE de Acceso a las Grandes Écoles"
+    },
+    "examDateIso": "2027-04-19T08:30:00+02:00",
+    "regStartIso": "2026-12-10T00:00:00+01:00",
+    "regEndIso": "2027-01-12T17:00:00+01:00",
+    "category": "academic",
+    "region": "FR",
+    "color": "#7b2ff7",
+    "websiteUrl": "https://www.scei-concours.fr",
+    "recurrence": {
+      "month": 4,
+      "weekday": 1,
+      "nthWeek": 3,
+      "hour": 8,
+      "minute": 30,
+      "regOffsetDays": 130,
+      "regDurationDays": 33
+    }
+  },
+  {
+    "id": "pass-las-med",
+    "code": "PASS / LAS",
+    "name": {
+      "tr": "PASS / LAS (Fransa Tıp & Sağlık Giriş Sınavı)",
+      "en": "PASS / LAS (French Health & Medical Studies Exams)",
+      "de": "PASS / LAS (Medizinstudium Prüfungen in Frankreich)",
+      "fr": "Examens PASS / LAS (Accès aux Études de Santé & Médecine)",
+      "es": "Exámenes PASS / LAS (Acceso a Estudios de Salud y Medicina)"
+    },
+    "examDateIso": "2027-05-10T08:30:00+02:00",
+    "regStartIso": "2027-01-15T00:00:00+01:00",
+    "regEndIso": "2027-03-20T23:59:59+01:00",
+    "category": "academic",
+    "region": "FR",
+    "color": "#ec4899",
+    "websiteUrl": "https://www.enseignementsup-recherche.gouv.fr",
+    "recurrence": {
+      "month": 5,
+      "weekday": 1,
+      "nthWeek": 2,
+      "hour": 8,
+      "minute": 30,
+      "regOffsetDays": 115,
+      "regDurationDays": 64
+    }
+  },
+  {
+    "id": "delf-dalf",
+    "code": "DELF / DALF",
+    "name": {
+      "tr": "DELF / DALF (Fransızca Resmi Dil Diploması)",
+      "en": "DELF / DALF (Official French Language Diplomas)",
+      "de": "DELF / DALF (Offizielle Französisch-Sprachdiplome)",
+      "fr": "DELF / DALF (Diplômes d’Études et Approfondi de Langue Française)",
+      "es": "Diplomas de Lengua Francesa DELF / DALF"
+    },
+    "examDateIso": "2027-06-08T09:00:00+02:00",
+    "regStartIso": "2027-03-01T00:00:00+01:00",
+    "regEndIso": "2027-05-02T23:59:59+02:00",
+    "category": "academic",
+    "region": "FR",
+    "color": "#06b6d4",
+    "websiteUrl": "https://www.france-education-international.fr",
+    "recurrence": {
+      "month": 6,
+      "weekday": 2,
+      "nthWeek": 2,
+      "hour": 9,
+      "minute": 0,
+      "regOffsetDays": 99,
+      "regDurationDays": 62
+    }
+  },
+  {
+    "id": "tage-mage",
+    "code": "Tage Mage",
+    "name": {
+      "tr": "Tage Mage (Fransız İşletme & Yönetim Testi)",
+      "en": "Tage Mage (Management & Business School Aptitude Test)",
+      "de": "Tage Mage (Eignungstest für Management & Wirtschaft)",
+      "fr": "Test Tage Mage (FNEGE - Aptitude aux Études de Gestion & MBA)",
+      "es": "Test Tage Mage (Aptitud para Estudios de Gestión y Negocios)"
+    },
+    "examDateIso": "2027-04-24T13:30:00+02:00",
+    "regStartIso": "2027-01-15T00:00:00+01:00",
+    "regEndIso": "2027-04-09T23:59:59+02:00",
+    "category": "academic",
+    "region": "FR",
+    "color": "#f59e0b",
+    "websiteUrl": "https://www.tagemage.fr",
+    "recurrence": {
+      "month": 4,
+      "weekday": 6,
+      "nthWeek": 4,
+      "hour": 13,
+      "minute": 30,
+      "regOffsetDays": 99,
+      "regDurationDays": 84
+    }
+  },
+  {
+    "id": "selectividad-ebau",
+    "code": "EBAU / PAU",
+    "name": {
+      "tr": "Selectividad (İspanya Üniversite Giriş Sınavı - EBAU / PAU)",
+      "en": "Selectividad / EBAU / PAU (Spanish University Entrance Exam)",
+      "de": "Selectividad / EBAU / PAU (Spanische Hochschulaufnahmeprüfung)",
+      "fr": "Selectividad (Examen d'Accès à l'Université en Espagne - EBAU)",
+      "es": "Selectividad (Evaluación de Bachillerato para Acceso a la Universidad - EBAU / PAU)"
+    },
+    "examDateIso": "2027-06-08T09:00:00+02:00",
+    "regStartIso": "2027-04-01T00:00:00+02:00",
+    "regEndIso": "2027-05-20T23:59:59+02:00",
+    "category": "academic",
+    "region": "ES",
+    "color": "#f1bf00",
+    "websiteUrl": "https://www.educacionfpydeportes.gob.es",
+    "recurrence": {
+      "month": 6,
+      "weekday": 2,
+      "nthWeek": 2,
+      "hour": 9,
+      "minute": 0,
+      "regOffsetDays": 68,
+      "regDurationDays": 49
+    }
+  },
+  {
+    "id": "mir-medicina",
+    "code": "MIR",
+    "name": {
+      "tr": "MIR (İspanya Uzman Tıp Eğitimi Sınavı)",
+      "en": "MIR (Medical Intern Resident Specialized Examination in Spain)",
+      "de": "MIR (Facharztausbildung Aufnahmeprüfung in Spanien)",
+      "fr": "MIR (Examen National de l’Internat en Médecine en Espagne)",
+      "es": "Examen MIR (Médico Interno Residente - Sanidad)"
+    },
+    "examDateIso": "2027-01-23T15:00:00+01:00",
+    "regStartIso": "2026-09-02T10:00:00+02:00",
+    "regEndIso": "2026-09-16T17:00:00+02:00",
+    "category": "academic",
+    "region": "ES",
+    "color": "#00ff88",
+    "websiteUrl": "https://www.sanidad.gob.es",
+    "recurrence": {
+      "month": 1,
+      "weekday": 6,
+      "nthWeek": 4,
+      "hour": 15,
+      "minute": 0,
+      "regOffsetDays": 143,
+      "regDurationDays": 14
+    }
+  },
+  {
+    "id": "oposiciones",
+    "code": "Oposiciones",
+    "name": {
+      "tr": "Oposiciones (İspanya Kamu Görevlisi Seçme Sınavları)",
+      "en": "Oposiciones (Spanish Public Civil Service Competitive Exams)",
+      "de": "Oposiciones (Spanische Prüfungen für den öffentlichen Dienst)",
+      "fr": "Oposiciones (Concours de la Fonction Publique en Espagne)",
+      "es": "Oposiciones a la Función Pública (Cuerpo Docente y Administrativo)"
+    },
+    "examDateIso": "2027-06-19T09:00:00+02:00",
+    "regStartIso": "2027-02-15T00:00:00+01:00",
+    "regEndIso": "2027-03-31T23:59:59+02:00",
+    "category": "academic",
+    "region": "ES",
+    "color": "#8b5cf6",
+    "websiteUrl": "https://www.inap.es",
+    "recurrence": {
+      "month": 6,
+      "weekday": 6,
+      "nthWeek": 3,
+      "hour": 9,
+      "minute": 0,
+      "regOffsetDays": 124,
+      "regDurationDays": 44
+    }
+  },
+  {
+    "id": "exani-icfes",
+    "code": "EXANI / ICFES",
+    "name": {
+      "tr": "EXANI-II / Saber 11 (Meksika & LATAM Üniversite Giriş)",
+      "en": "EXANI-II / ICFES Saber 11 (LATAM University Entrance Exams)",
+      "de": "EXANI-II / ICFES Saber 11 (Hochschulaufnahmeprüfungen LATAM)",
+      "fr": "EXANI-II / ICFES Saber 11 (Examens d'Entrée Universitaire LATAM)",
+      "es": "EXANI-II / ICFES Saber 11 (Examen Nacional de Ingreso a Educación Superior)"
+    },
+    "examDateIso": "2027-05-15T08:00:00-06:00",
+    "regStartIso": "2027-01-10T00:00:00-06:00",
+    "regEndIso": "2027-04-10T23:59:59-06:00",
+    "category": "academic",
+    "region": "ES",
+    "color": "#ff0844",
+    "websiteUrl": "https://ceneval.edu.mx",
+    "recurrence": {
+      "month": 5,
+      "weekday": 6,
+      "nthWeek": 2,
+      "hour": 8,
+      "minute": 0,
+      "regOffsetDays": 125,
+      "regDurationDays": 90
+    }
+  },
+  {
+    "id": "dele-es",
+    "code": "DELE",
+    "name": {
+      "tr": "DELE (Instituto Cervantes İspanyolca Dil Diploması)",
+      "en": "DELE (Official Spanish Language Diplomas - Cervantes)",
+      "de": "DELE (Offizielle Spanisch-Sprachdiplome - Cervantes)",
+      "fr": "DELE (Diplômes d’Espagnol comme Langue Étrangère - Cervantes)",
+      "es": "Diplomas de Español como Lengua Extranjera (DELE - Cervantes)"
+    },
+    "examDateIso": "2027-05-21T09:00:00+02:00",
+    "regStartIso": "2027-01-11T00:00:00+01:00",
+    "regEndIso": "2027-03-17T23:59:59+01:00",
+    "category": "academic",
+    "region": "ES",
+    "color": "#00d2ff",
+    "websiteUrl": "https://examenes.cervantes.es",
+    "recurrence": {
+      "month": 5,
+      "weekday": 5,
+      "nthWeek": 3,
+      "hour": 9,
+      "minute": 0,
+      "regOffsetDays": 130,
+      "regDurationDays": 65
+    }
+  }
+]
